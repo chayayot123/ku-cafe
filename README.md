@@ -8,4 +8,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Chayayot  | Beverage  | 6210546391      |
+| Chayayot  | Beverage  | @chayayot123    |
