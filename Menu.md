@@ -1,5 +1,5 @@
 # KU Cafe Menu
-
+| [Beverages Menu](#beverages) |
 
 ## Breakfast
 
