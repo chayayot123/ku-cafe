@@ -3,11 +3,15 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
+
+    Item                                 Price
+    French Toast Sticks                  50
+    Maple Flavor Oatmeal - Meal          140
+    Impossible Biscuit Meal              200
+    Impossible Croissan'wich Meal        220
+    Egg-normous Burrito Meal             180
 
 
 ## Dinner

@@ -7,8 +7,8 @@
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points deducted if one person adds everyone.
+|Breakfast| [Lunch](Menu.md) | Dinner | Night food | Beverages |
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Bhokin | Meals | @bhokin |
