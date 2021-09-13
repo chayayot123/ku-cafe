@@ -2,6 +2,7 @@
 
 ## [Menu](Menu.md)
 
+[Dinner](/Menu.md#dinner)
 
 ## About Us
 
