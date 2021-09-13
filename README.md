@@ -11,4 +11,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Chayayot  | Beverage  | 6210546391      |

@@ -17,6 +17,13 @@
 
 
 ## Beverages
+| Item      |   Price   |
+|:----------|-----------|
+| Hot leci Tea        |   100baht     |
+| Hot lemon leci Tea  |   100baht     |
+| Iced Leci Tea       |   130 baht    |
+| ISoda Gembira       |   150 baht    |
+
 
 
 
