@@ -1,15 +1,18 @@
 # KU Cafe Menu
-| [Dinner Menu](#dinner) |
+
+
+|[Breakfast](#Breakfast)| Lunch | [Dinner Menu](#dinner) | Night food | Beverages |
+
 
 ## Breakfast
 
 | Item                | Price     | 
 |:--------------------|-----------|
-| Pancake             | 20        |
-| Chicken and waffles | 99        |
-| Bacon with omelette | 125       |
-| Sandwich            | 40        |
-| Sausage with toast  | 50        |
+| Pancake             | 20  Baht  |
+| Chicken and waffles | 99  Baht  |
+| Bacon with omelette | 125 Baht  |
+| Sandwich            | 40  Baht  |
+| Sausage with toast  | 50  Baht  |
 
 ## Lunch 
 
