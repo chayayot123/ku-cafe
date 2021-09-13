@@ -3,9 +3,6 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
 
@@ -19,10 +16,10 @@
 ## Beverages
 | Item      |   Price   |
 |:----------|-----------|
-| Hot leci Tea        |   100baht     |
-| Hot lemon leci Tea  |   100baht     |
-| Iced Leci Tea       |   130 baht    |
-| ISoda Gembira       |   150 baht    |
+| Hot leci Tea |   100 baht |
+| Hot lemon leci Tea |   100 baht |
+| Iced Leci Tea |   130 baht |
+| ISoda Gembira |   150 baht |
 
 
 
