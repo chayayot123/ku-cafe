@@ -13,16 +13,13 @@
 | Sausage with toast  | 50  Baht  |
 
 
-## Lunch 
+## Lunch
 
-| Item                              | Price      |
-|:----------------------------------|------------|
 | French Toast Sticks               | 50  Bath   |
 | Maple Flavor Oatmeal - Meal       | 140 Bath   |
 | Impossible Biscuit Meal           | 200 Bath   |
 | Impossible Croissan'wich Meal     | 220 Bath   |
-| Egg-normous Burrito Meal          | 180 Bath   |    
-
+| Egg-normous Burrito Meal          | 180 Bath   |
 
 ## Dinner
 
