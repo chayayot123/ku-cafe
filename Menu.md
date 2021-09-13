@@ -1,6 +1,8 @@
 # KU Cafe Menu
 
-|[Breakfast](Breakfast)| Lunch | Dinner | Night food | Beverages |
+
+|[Breakfast](#Breakfast)| Lunch | [Dinner Menu](#dinner) | Night food | Beverages |
+
 
 ## Breakfast
 
@@ -16,6 +18,13 @@
 
 
 ## Dinner
+
+| Item          | Price     |
+|:--------------|-----------|
+| Mushroom soup | 30        |
+| Fish and chips| 80        |
+| Salad         | 60        |
+| Potato mash   | 30        |
 
 
 ## Night Food
