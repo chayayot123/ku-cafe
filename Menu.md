@@ -1,6 +1,8 @@
 # KU Cafe Menu
 
-|[Breakfast](#Breakfast)| Lunch | [Dinner Menu](#dinner) | Night food | [Beverages Menu](#beverages) |
+
+|[Breakfast](#Breakfast)| Lunch | [Dinner Menu](#dinner) | [Night food](#night-food) | [Beverages Menu](#beverages) |
+
 
 
 ## Breakfast
@@ -28,7 +30,13 @@
 
 
 ## Night Food
-
+| Item                            | Price     | 
+|:--------------------------------|-----------|
+| Oatmeal                         | 50  Baht  |
+| Popcorn                         | 70  Baht  |
+| Pumpkin seeds                   | 40  Baht  |
+| Bananas and peanut butter       | 80  Baht  |
+| Beef jerky                      | 120 Baht |
 
 ## Beverages
 | Item      |   Price   |
