@@ -1,16 +1,20 @@
 # KU Cafe Menu
-
+| [Dinner Menu](#dinner) |
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
 
 
 ## Dinner
+
+| Item      | Price      |
+|:----------|-----------|
+| Mushroom soup | 30.0 |
+| Fish and chips | 80.0 |
+| Salad    | 60.0
+| Potato mash  | 30.0 |
 
 
 ## Night Food
