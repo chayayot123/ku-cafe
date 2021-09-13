@@ -1,7 +1,8 @@
 # KU Cafe Menu
 
 
-|[Breakfast](#Breakfast)| Lunch | [Dinner Menu](#dinner) | [Night food](#night-food) | Beverages |
+|[Breakfast](#Breakfast)| Lunch | [Dinner Menu](#dinner) | [Night food](#night-food) | [Beverages Menu](#beverages) |
+
 
 
 ## Breakfast
@@ -13,6 +14,7 @@
 | Bacon with omelette | 125 Baht  |
 | Sandwich            | 40  Baht  |
 | Sausage with toast  | 50  Baht  |
+
 
 ## Lunch 
 
@@ -30,13 +32,20 @@
 ## Night Food
 | Item                            | Price     | 
 |:--------------------------------|-----------|
-| Oatmeal                         | 50        |
-| Popcorn                         | 70        |
-| Pumpkin seeds                   | 40        |
-| Bananas and peanut butter       | 80        |
-| Beef jerky                      | 120        |
+| Oatmeal                         | 50  Baht  |
+| Popcorn                         | 70  Baht  |
+| Pumpkin seeds                   | 40  Baht  |
+| Bananas and peanut butter       | 80  Baht  |
+| Beef jerky                      | 120 Baht |
 
 ## Beverages
+| Item      |   Price   |
+|:----------|-----------|
+| Hot leci Tea |   100 baht |
+| Hot lemon leci Tea |   100 baht |
+| Iced Leci Tea |   130 baht |
+| ISoda Gembira |   150 baht |
+
 
 
 
