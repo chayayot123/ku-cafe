@@ -15,6 +15,8 @@
 
 ## Lunch
 
+| Item                              | Price      |
+|:----------------------------------|------------|
 | French Toast Sticks               | 50  Bath   |
 | Maple Flavor Oatmeal - Meal       | 140 Bath   |
 | Impossible Biscuit Meal           | 200 Bath   |
@@ -41,6 +43,7 @@
 | Beef jerky                      | 120 Baht |
 
 ## Beverages
+
 | Item      |   Price   |
 |:----------|-----------|
 | Hot leci Tea |   100 Baht |
