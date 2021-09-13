@@ -3,9 +3,6 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
 
@@ -14,7 +11,13 @@
 
 
 ## Night Food
-
+| Item                            | Price     | 
+|:--------------------------------|-----------|
+| Oatmeal                         | 50        |
+| Popcorn                         | 70        |
+| Pumpkin seeds                   | 40        |
+| Bananas and peanut butter       | 80        |
+| Beef jerky                      | 120        |
 
 ## Beverages
 
