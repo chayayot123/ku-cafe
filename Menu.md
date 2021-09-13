@@ -7,13 +7,13 @@
 
 ## Lunch 
 
-| Item                              | Price  |
-|:----------------------------------|--------|
-| French Toast Sticks               | 50     |
-| Maple Flavor Oatmeal - Meal       | 140    |
-| Impossible Biscuit Meal           | 200    |
-| Impossible Croissan'wich Meal     | 220    |
-| Egg-normous Burrito Meal          | 180    |    
+| Item                              | Price      |
+|:----------------------------------|------------|
+| French Toast Sticks               | 50 Baht    |
+| Maple Flavor Oatmeal - Meal       | 140 Baht   |
+| Impossible Biscuit Meal           | 200 Baht   |
+| Impossible Croissan'wich Meal     | 220 Baht   |
+| Egg-normous Burrito Meal          | 180 Baht   |    
 
 
 ## Dinner
