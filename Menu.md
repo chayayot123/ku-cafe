@@ -26,12 +26,12 @@
 
 ## Dinner
 
-| Item          | Price     |
-|:--------------|-----------|
-| Mushroom soup | 30        |
-| Fish and chips| 80        |
-| Salad         | 60        |
-| Potato mash   | 30        |
+| Item      | Price      |
+|:----------|-----------|
+| Fish and chips | 80 Baht|
+| Mushroom soup | 30 Baht|
+| Potato mash  | 30 Baht |
+| Salad    | 60 Baht |
 
 
 ## Night Food
