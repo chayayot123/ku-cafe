@@ -11,10 +11,11 @@
 
 | Item      | Price      |
 |:----------|-----------|
-| Mushroom soup | 30.0 |
-| Fish and chips | 80.0 |
-| Salad    | 60.0
-| Potato mash  | 30.0 |
+| Fish and chips | 80 Baht|
+| Mushroom soup | 30 Baht|
+| Potato mash  | 30 Baht |
+| Salad    | 60 Baht |
+
 
 
 ## Night Food
