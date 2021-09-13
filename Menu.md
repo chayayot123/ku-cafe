@@ -3,9 +3,13 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item                | Price     | 
+|:--------------------|-----------|
+| Pancake             | 20        |
+| Chicken and waffles | 99        |
+| Bacon with omelette | 125       |
+| Sandwich            | 40        |
+| Sausage with toast  | 50        |
 
 ## Lunch 
 
